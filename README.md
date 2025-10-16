@@ -15,7 +15,7 @@ La sostenibilidad es la capacidad de satisfacer las necesidades presentes sin co
 | ODS 12: Producción y consumo responsables    | Uso eficiente de los recursos.     | Optimización de recursos en TI.       |
 | ODS 13: Acción por el clima                   | Medidas contra el cambio climático.| Reducción de la huella de carbono digital.|
 
-![Objetivos de Desarrollo Sostenible](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/SDG_Logo.png/320px-SDG_Logo.png)
+![Objetivos de Desarrollo Sostenible](https://share.google/images/R7jwZrKUQRqUVg0M7)
 
 * [x] Utilizar energía renovable en centros de datos  
 * [ ] Implementar políticas de reciclaje de hardware  
