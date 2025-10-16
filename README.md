@@ -15,7 +15,7 @@ La sostenibilidad es la capacidad de satisfacer las necesidades presentes sin co
 | ODS 12: Producción y consumo responsables    | Uso eficiente de los recursos.     | Optimización de recursos en TI.       |
 | ODS 13: Acción por el clima                   | Medidas contra el cambio climático.| Reducción de la huella de carbono digital.|
 
-![Objetivos de Desarrollo Sostenible](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ekomodo.eus%2Fblog%2Fempresas-por-un-mundo-mejor%2Fque-son-los-ods-y-por-que-son-tan-importantes%2F&psig=AOvVaw02tbagPIlBOfbkA-Up8Oia&ust=1760695362130000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKD918S7qJADFQAAAAAdAAAAABAp)
+![Objetivos de Desarrollo Sostenible](https://www.ekomodo.eus/blog/empresas-por-un-mundo-mejor/que-son-los-ods-y-por-que-son-tan-importantes/)
 
 * [x] Utilizar energía renovable en centros de datos  
 * [ ] Implementar políticas de reciclaje de hardware  
