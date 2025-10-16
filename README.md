@@ -16,7 +16,7 @@ La sostenibilidad es la capacidad de satisfacer las necesidades presentes sin co
 | ODS 13: Acción por el clima                   | Medidas contra el cambio climático.| Reducción de la huella de carbono digital.|
 
 ![Objetivos de Desarrollo Sostenible](assets/ods.png)
-[Objetivos de Desarrollo Sostenible ext](https://www.isglobal.org/documents/10179/22225/ODS-circulo-ES-web.jpg/)
+![Objetivos de Desarrollo Sostenible ext](https://www.isglobal.org/documents/10179/22225/ODS-circulo-ES-web.jpg/)
 
 * [x] Utilizar energía renovable en centros de datos  
 * [ ] Implementar políticas de reciclaje de hardware  
